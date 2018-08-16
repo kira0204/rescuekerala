@@ -1,11 +1,14 @@
-# rescuekerala
-Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
-
-We're so glad to see the PRs, will merge after releasing critical features
-=======
 # Kerala Rescue
 
 Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
+
+## Contributions
+
+It's great that we all are coming together to help this website, every helping hand is required and appreciated, but before you make any contribution, below are some points that you should keep in mind.
+
+- Select an issue that you want to work upon and comment on the same so that no other person takes up the same issue
+- If the issue your PR is solving is not mentioned in the issues tab, first open the issue and then solve it so that other people know what you are working upon and hence we reduce the number of duplicates.
+
 
 ## Getting Started
 
